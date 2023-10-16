@@ -1,4 +1,4 @@
-# badou-special-2023
+# badou-ai-special-2023
 
 按照格式建立个人文件夹
 
