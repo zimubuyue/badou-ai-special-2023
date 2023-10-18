@@ -4,7 +4,4 @@
 
 1. fork michael老师的仓库，并创建自己的文件夹
 2. Pull Requests 
-3. ceshi
-
-
 
